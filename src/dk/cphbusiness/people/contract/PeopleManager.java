@@ -7,6 +7,7 @@ import java.util.Collection;
 import javax.ejb.Remote;
 /**
  * This is just plain stupid
+ * Comments should be here !!!
  * @author anders
  */
 @Remote
