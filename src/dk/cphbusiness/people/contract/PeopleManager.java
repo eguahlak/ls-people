@@ -6,6 +6,10 @@ import dk.cphbusiness.people.contract.dto.PersonSummary;
 import java.util.Collection;
 import javax.ejb.Remote;
 
+/**
+ * Comments should be here !!!
+ * @author anders
+ */
 @Remote
 public interface PeopleManager {
   Collection<PersonSummary> listPeople();
